@@ -32,7 +32,7 @@ export default connect(undefined, mapDispatchToProps)(AddExpensePage);
 
 
 
-///This is what we had before we ran those ugly tests and had to modify this to make it more testable
+///This is what we had before we had to modify this to make it more testable
 // import React from 'react';
 // import {connect} from 'react-redux';
 // import ExpenseForm from './ExpenseForm';
